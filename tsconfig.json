@@ -1,0 +1,28 @@
+{
+	"compilerOptions": {
+		"allowJs": true,
+		"allowSyntheticDefaultImports": true,
+		"allowUnreachableCode": true,
+		"allowUnusedLabels": true,
+		"jsx": "react",
+		"baseUrl": "./src",
+		"esModuleInterop": true,
+		"forceConsistentCasingInFileNames": true,
+		"importHelpers": true,
+		"lib": ["ESNext", "DOM"],
+		"module": "CommonJS",
+		"moduleResolution": "Node",
+		"newLine": "lf",
+		"noImplicitThis": true,
+		"noUncheckedIndexedAccess": true,
+		"noUnusedParameters": true,
+		"outDir": "./dist",
+		"paths": {},
+		"removeComments": false,
+		"skipLibCheck": true,
+		"strict": true,
+		"target": "ESNext"
+	},
+	"exclude": ["dist", "node_modules"],
+	"include": ["src"]
+}
