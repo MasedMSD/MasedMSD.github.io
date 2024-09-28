@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MasedMSD.github.io/static/css/main.a51ea30a.css",
+    "main.js": "/MasedMSD.github.io/static/js/main.15f876d3.js",
+    "index.html": "/MasedMSD.github.io/index.html",
+    "main.a51ea30a.css.map": "/MasedMSD.github.io/static/css/main.a51ea30a.css.map",
+    "main.15f876d3.js.map": "/MasedMSD.github.io/static/js/main.15f876d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a51ea30a.css",
+    "static/js/main.15f876d3.js"
+  ]
+}
